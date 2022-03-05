@@ -1,8 +1,9 @@
 # hello-world
-I'm following the Hello World Github Guides to become a better developer.
+I'm following the Hello World Github Guides in this file to take the first steps on this platform.
 
-Now i'm learning how to edit a file in repository. 
+## Apresentation
+My name is Juan Galdino. I'm from Brazil, my age is 20 and I'm interested in working as a front end developer as well , because it's a profession I love to study and be.
 
-My name is Juan Galdino, but only Juan is okay. I'm addicted to many types of art and aspire to be a great front-end developer as well because it's a profession I love to study and be.
+I'm a begginer student.
 
-It's time to commit my changes :)
+Thank you for reading this.
